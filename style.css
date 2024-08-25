@@ -184,10 +184,3 @@ main{
 .ocultar{
     display: none;
 }
-
-@media (max-width: 1200px ){
-    .contenedor-resultado{
-        flex-direction: column-reverse;
-}
-
-}
